@@ -10,10 +10,12 @@
   },
   "dependencies": {
     "vue": "^3.3.8",
-    "vue-router": "^4.2.5"
+    "vue-router": "^4.2.5",
+    "vuetify": "^3.3.19"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.5.0",
+    "sass": "^1.35.2",
     "unplugin-vue-components": "^0.25.2",
     "vite": "^5.0.0",
     "vite-plugin-pwa": "^0.16.7"
